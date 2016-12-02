@@ -2,6 +2,7 @@
 
 File ReplicationInfo.pdf contains:
 - Scratch projects involved in the investigation
+- Experts' company/organization and years of experience
 - Groups of experts
 - Instructions for experts
 - Templates for the assessment
