@@ -7,3 +7,4 @@ File ReplicationInfo.pdf contains:
 - Instructions for experts
 - Templates for the assessment
 
+File scores.csv contains the scores provided by experts and Dr. Scratch for each of the projects under investigation.
